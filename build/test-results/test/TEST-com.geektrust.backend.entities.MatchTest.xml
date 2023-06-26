@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.entities.MatchTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-06T12:45:20" hostname="DESKTOP-7JPM78H" time="0.051">
+  <properties/>
+  <testcase name="testDriverIdsListisReturned()" classname="com.geektrust.backend.entities.MatchTest" time="0.045"/>
+  <testcase name="testDriverIdsGetter()" classname="com.geektrust.backend.entities.MatchTest" time="0.001"/>
+  <testcase name="testRiderIdGetter()" classname="com.geektrust.backend.entities.MatchTest" time="0.001"/>
+  <testcase name="testRiderIdisReturned()" classname="com.geektrust.backend.entities.MatchTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

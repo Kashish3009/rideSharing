@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.entities.RiderTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-06-06T12:45:20" hostname="DESKTOP-7JPM78H" time="0.049">
+  <properties/>
+  <testcase name="testRiderIdIsReturned()" classname="com.geektrust.backend.entities.RiderTest" time="0.033"/>
+  <testcase name="testRiderIdGetter()" classname="com.geektrust.backend.entities.RiderTest" time="0.001"/>
+  <testcase name="testxCoordinateGetter()" classname="com.geektrust.backend.entities.RiderTest" time="0.001"/>
+  <testcase name="testxCoordinateIsReturned()" classname="com.geektrust.backend.entities.RiderTest" time="0.003"/>
+  <testcase name="testyCoordinateIsReturned()" classname="com.geektrust.backend.entities.RiderTest" time="0.005"/>
+  <testcase name="testyCoordinateGetter()" classname="com.geektrust.backend.entities.RiderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

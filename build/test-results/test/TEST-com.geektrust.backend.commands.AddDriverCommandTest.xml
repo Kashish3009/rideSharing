@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.commands.AddDriverCommandTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-06T12:45:18" hostname="DESKTOP-7JPM78H" time="1.483">
+  <properties/>
+  <testcase name="testDriverAlreadyPresentExceptionIsThrown()" classname="com.geektrust.backend.commands.AddDriverCommandTest" time="1.475"/>
+  <testcase name="addDriverExecutedSuccessfully()" classname="com.geektrust.backend.commands.AddDriverCommandTest" time="0.007"/>
+  <system-out><![CDATA[Driver with this id is already present
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

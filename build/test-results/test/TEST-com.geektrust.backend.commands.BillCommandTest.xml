@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.commands.BillCommandTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-06T12:45:20" hostname="DESKTOP-7JPM78H" time="0.046">
+  <properties/>
+  <testcase name="billGenerationExecutesSuccessfully()" classname="com.geektrust.backend.commands.BillCommandTest" time="0.037"/>
+  <testcase name="testRideNotCompletedExceptionIsThrown()" classname="com.geektrust.backend.commands.BillCommandTest" time="0.004"/>
+  <testcase name="testInvalidRideExceptionIsThrown()" classname="com.geektrust.backend.commands.BillCommandTest" time="0.003"/>
+  <system-out><![CDATA[BILL RIDE-101 D3 186.72
+RIDE_NOT_COMPLETED
+INVALID_RIDE
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

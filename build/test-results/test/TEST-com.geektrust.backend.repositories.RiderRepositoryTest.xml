@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.repositories.RiderRepositoryTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-06-06T12:45:21" hostname="DESKTOP-7JPM78H" time="0.075">
+  <properties/>
+  <testcase name="existsByIdForRiderShouldReturnFalseForNonExistingId()" classname="com.geektrust.backend.repositories.RiderRepositoryTest" time="0.058"/>
+  <testcase name="findAllForRiderShouldReturnAllRiders()" classname="com.geektrust.backend.repositories.RiderRepositoryTest" time="0.005"/>
+  <testcase name="saveRiderShouldReturnSavedRider()" classname="com.geektrust.backend.repositories.RiderRepositoryTest" time="0.003"/>
+  <testcase name="existsByIdForRiderShouldReturnTrueForExistingId()" classname="com.geektrust.backend.repositories.RiderRepositoryTest" time="0.002"/>
+  <testcase name="findByIdForRiderShouldReturnEmptyOptionalForNonExistingId()" classname="com.geektrust.backend.repositories.RiderRepositoryTest" time="0.002"/>
+  <testcase name="findByIdForRiderShouldReturnRiderById()" classname="com.geektrust.backend.repositories.RiderRepositoryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

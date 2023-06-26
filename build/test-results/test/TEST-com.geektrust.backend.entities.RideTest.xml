@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.entities.RideTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-06-06T12:45:20" hostname="DESKTOP-7JPM78H" time="0.122">
+  <properties/>
+  <testcase name="constructorWithDriverIdAndRiderIdAndRideStatusSetsIdCorrectly()" classname="com.geektrust.backend.entities.RideTest" time="0.076"/>
+  <testcase name="getDriverIdReturnsDriverId()" classname="com.geektrust.backend.entities.RideTest" time="0.003"/>
+  <testcase name="constructorWithDriverIdAndRiderIdAndRideStatusSetsDriverIdCorrectly()" classname="com.geektrust.backend.entities.RideTest" time="0.003"/>
+  <testcase name="getRiderIdReturnsRiderId()" classname="com.geektrust.backend.entities.RideTest" time="0.004"/>
+  <testcase name="setRideStatusWithNullStatusDoesNotChangeRideStatus()" classname="com.geektrust.backend.entities.RideTest" time="0.004"/>
+  <testcase name="setRideStatusWithValidStatusSetsRideStatus()" classname="com.geektrust.backend.entities.RideTest" time="0.003"/>
+  <testcase name="constructorWithDriverIdAndRiderIdAndRideStatusSetsRiderStatusCorrectly()" classname="com.geektrust.backend.entities.RideTest" time="0.002"/>
+  <testcase name="constructorWithRideIdDestinationAndRideStatusSetsDestinationCorrectly()" classname="com.geektrust.backend.entities.RideTest" time="0.005"/>
+  <testcase name="constructorWithRideIdDestinationAndRideStatusSetsRideIdCorrectly()" classname="com.geektrust.backend.entities.RideTest" time="0.003"/>
+  <testcase name="getDestinationReturnsDestination()" classname="com.geektrust.backend.entities.RideTest" time="0.003"/>
+  <testcase name="getRideStatusReturnsRideStatus()" classname="com.geektrust.backend.entities.RideTest" time="0.003"/>
+  <testcase name="constructorWithDriverIdAndRiderIdAndRideStatusSetsRiderIdCorrectly()" classname="com.geektrust.backend.entities.RideTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

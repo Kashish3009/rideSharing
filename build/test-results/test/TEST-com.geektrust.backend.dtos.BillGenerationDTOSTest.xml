@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.dtos.BillGenerationDTOSTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-06T12:45:20" hostname="DESKTOP-7JPM78H" time="0.054">
+  <properties/>
+  <testcase name="getDriverIdReturnsDriverId()" classname="com.geektrust.backend.dtos.BillGenerationDTOSTest" time="0.048"/>
+  <testcase name="getAmountReturnsAmountInBillGeneration()" classname="com.geektrust.backend.dtos.BillGenerationDTOSTest" time="0.001"/>
+  <testcase name="toStringinBillGenerationDTOSReturnsFormattedString()" classname="com.geektrust.backend.dtos.BillGenerationDTOSTest" time="0.001"/>
+  <testcase name="getRideIdReturnsRideId()" classname="com.geektrust.backend.dtos.BillGenerationDTOSTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

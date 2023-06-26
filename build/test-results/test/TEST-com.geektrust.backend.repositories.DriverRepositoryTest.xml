@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.repositories.DriverRepositoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-06-06T12:45:20" hostname="DESKTOP-7JPM78H" time="0.097">
+  <properties/>
+  <testcase name="findAllShouldReturnListOfDrivers()" classname="com.geektrust.backend.repositories.DriverRepositoryTest" time="0.061"/>
+  <testcase name="saveShouldReturnSavedDriver()" classname="com.geektrust.backend.repositories.DriverRepositoryTest" time="0.009"/>
+  <testcase name="ExistingIdShouldReturnDriverOptional()" classname="com.geektrust.backend.repositories.DriverRepositoryTest" time="0.005"/>
+  <testcase name="findByIdShouldReturnDriverOptional()" classname="com.geektrust.backend.repositories.DriverRepositoryTest" time="0.006"/>
+  <testcase name="existsByIdForNonExistingIdShouldReturnFalse()" classname="com.geektrust.backend.repositories.DriverRepositoryTest" time="0.006"/>
+  <testcase name="existsByIdForExistingIdShouldReturnTrue()" classname="com.geektrust.backend.repositories.DriverRepositoryTest" time="0.003"/>
+  <testcase name="findByIdForNonExistingIdShouldReturnEmptyOptional()" classname="com.geektrust.backend.repositories.DriverRepositoryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
